@@ -1,6 +1,6 @@
 # Coursera_Getting_Cleaning_Data Course project : run_analysis.R file description
 
-### Step 1: Reading in all data file
+### Step 1: Step 1: Reading in all data file: all files must be in working director
 
 This step read in all the data (txt) file needed to do the project. These are:
 
